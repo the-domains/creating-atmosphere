@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Creating Atmosphere]]></title>
         <description><![CDATA[Creating Atmosphere]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creating-atmosphere/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 05:48:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 05:49:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creating-atmosphere/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Wedding season is quickly moving into full swing production!!! </p>]]></description>
+            <link>https://thegrid.ai/creating-atmosphere/a0d2d837-b1d8-4540-9b0c-18b0fb565c29/index.html</link>
+            <guid isPermaLink="false">a0d2d837-b1d8-4540-9b0c-18b0fb565c29</guid>
+            <pubDate>Mon, 08 Feb 2016 05:48:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d226149b-71af-4027-9425-5ccc40269596.jpg">]]></description>
-            <link>undefined718b4fb2-dee9-4a1c-a6e9-6f543bfaf4b6/index.html</link>
+            <link>https://thegrid.ai/creating-atmosphere/718b4fb2-dee9-4a1c-a6e9-6f543bfaf4b6/index.html</link>
             <guid isPermaLink="false">718b4fb2-dee9-4a1c-a6e9-6f543bfaf4b6</guid>
             <pubDate>Mon, 08 Feb 2016 05:48:16 GMT</pubDate>
         </item>
