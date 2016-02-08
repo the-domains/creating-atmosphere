@@ -1,7 +1,7 @@
 name: Creating Atmosphere
 favicon: null
-layout_spectrum: 0.3457236415706575
-typography_spectrum: 0.51635732781142
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#a9aba6'
-    - '#838280'
-    - '#1e1504'
-    - '#544339'
+    - '#c9aca4'
+    - '#847764'
+    - '#eff0f5'
+    - '#292830'
+    - '#040000'
   brandStrength: 0.21674037305638194
   lightness: 0.5579777515958995
   saturation: 0.8122558225877583
