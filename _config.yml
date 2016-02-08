@@ -1,29 +1,18 @@
-name: Creating Atmosphere
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 1
-title: 'Extraordinary Events Exceeding Expectations '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#c9aca4'
-    - '#847764'
-    - '#eff0f5'
-    - '#292830'
-    - '#040000'
-  brandStrength: 0.21674037305638194
-  lightness: 0.5579777515958995
-  saturation: 0.8122558225877583
-  rhythmicContrast: 0.22806132794357836
+    - '#C0C0A0'
+    - '#000000'
+    - '#986060'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.493421
+  lightness: 0.825658
+  rhythmicContrast: 0.228061
+  saturation: 0.812255
+cta: {}
+layout_spectrum: 0.956414
+name: Creating Atmosphere
+opengraph: {}
 purpose: []
+typography_spectrum: 0.60773
