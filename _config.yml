@@ -7,12 +7,12 @@ color:
     - '#000000'
     - '#000000'
   brandStrength: 0.493421
-  lightness: 0.825658
+  lightness: 0.529605
   rhythmicContrast: 0.228061
-  saturation: 0.812255
+  saturation: 0.518092
 cta: {}
 layout_spectrum: 0.956414
 name: Creating Atmosphere
 opengraph: {}
 purpose: []
-typography_spectrum: 0.60773
+typography_spectrum: 0.601974
